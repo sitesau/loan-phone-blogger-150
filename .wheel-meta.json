@@ -1,0 +1,19 @@
+{
+  "wheel_id": 189,
+  "structure": "umbrella",
+  "slug": "loan-phone-blogger-150",
+  "project": "truck-finance-options-australia-057f40d2935d93a00a2a3582091138f",
+  "parent_t1_ref": "loan-phone:blogger",
+  "node_role": "buffer",
+  "money_target": "loanphone.com.au",
+  "primary_kw": "truck finance options Australia",
+  "intended_url": "https://aumedia.neocities.org/truck-finance-options-australia-057f40d2935d93a00a2a3582091138f/",
+  "writeback_nonce": "6abc213e170a90c1",
+  "links": [
+    {
+      "target_url": "https://theloanphone.blogspot.com/",
+      "anchor": "truck finance options Australia",
+      "rel": "follow"
+    }
+  ]
+}
